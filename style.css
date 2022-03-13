@@ -31,7 +31,7 @@ body{
 .digital-card-details{
     height: 40vh;
     width: 100%;
-    background-image: url('/images/ASSETS/Background.jpg');
+    background-image: url('./images/ASSETS/Background.jpg');
     border-radius: 50px;
     color: white;
     padding: 30px;
